@@ -1,0 +1,1 @@
+# Monitoramento-de-descarte-de-lixo-com-I.A
