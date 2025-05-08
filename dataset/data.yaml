@@ -1,0 +1,5 @@
+train: ./dataset/images/train
+val: ./dataset/images/train  # (pode usar as mesmas imagens para validação, já que são poucas)
+
+nc: 3
+names: ['pessoa', 'lixo', 'transporte']
