@@ -1,5 +1,5 @@
 train: ../dataset/images/train
 val: ../dataset/images/train
 
-nc: 2
-names: ['pessoa', 'lixo']
+nc: 4
+names: ['ponto_critico', 'transporte', 'descarte_inadequado', 'pessoa']
